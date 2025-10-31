@@ -1,4 +1,4 @@
-# Pagina42
+# Pagefy
 
 **Pagina42** é uma aplicação pensada para leitores que desejam registrar e organizar suas experiências de leitura de forma mais completa e significativa.
 
