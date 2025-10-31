@@ -1,6 +1,6 @@
 # Pagefy
 
-**Pagina42** é uma aplicação pensada para leitores que desejam registrar e organizar suas experiências de leitura de forma mais completa e significativa.
+**Pagefy** é uma aplicação pensada para leitores que desejam registrar e organizar suas experiências de leitura de forma mais completa e significativa.
 
 Diferente de outras ferramentas do mercado, ela oferece um espaço dedicado para salvar **citações favoritas separadamente** dos comentários gerais, permitindo que o usuário revisite com facilidade os trechos que mais o impactaram.
 
